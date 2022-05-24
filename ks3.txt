@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html, body {
+    margin: 0px;
+    padding: 0px;
+;
+}
+body{
+background:url(https://media.istockphoto.com/photos/blurred-peony-petals-abstract-romance-background-pastel-cream-colors-picture-id1094567188?b=1&k=20&m=1094567188&s=170667a&w=0&h=Ynp03v12GwkSVOWEy1PlTEN-lbCKCQuU043Chy-bzjg=);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+/*z-index(-1)*/
+/* Header/Logo Title */
+.header {
+  text-align: left;
+  color: white;
+  font-size: 75px;
+  padding:100px
+}
+div.gallery {
+  padding:20px;
+  margin: 62px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 280px;
+  background:black
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height:200px;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  COLOR:white
+}
+.bg-img {
+  /* The image used */
+  background-image: url(https://media.istockphoto.com/photos/pink-peonies-over-dark-background-moody-floral-baroque-style-banner-picture-id1320619254?b=1&k=20&m=1320619254&s=170667a&w=0&h=1im5cCj-WZ3SGqk6p6eW7ToPHdAXri9T-e8wHYaIiVA=);
+
+  min-height:300px;
+/*380*/
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:white;
+  /* Needed to position the navbar */
+  position: relative;
+}
+
+/* Position the navbar container inside the image */
+.container {
+  position: top;
+
+  width:100%;
+}
+
+
+
+</style>
+</head>
+<body>
+
+
+<div class="im">
+
+<div class="bg-img">
+<h1 class="header" >WAYS TO UNWIND</h1>
+  <div class="container">
+
+  </div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="file:///C:/Users/SONY/Desktop/html/html/aromatherapy.html">
+    <img src="C:/Users/SONY/Pictures/ar.png" alt="what" width="600" height="400">
+  </a>
+ <div class="desc">AROMATHERAPY</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="file:///C:/Users/SONY/Desktop/html/html/_act.html">
+    <img src="C:/Users/SONY/Pictures/act.png" alt="why" width="600" height="400">
+  </a>
+  <div class="desc">UNWINDING WITH ACTIVITIES</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="file:///C:/Users/SONY/Desktop/html/html/_family.html">
+    <img src="C:/Users/SONY/Pictures/fam.png" alt="how" width="600" height="400">
+  </a>
+  <div class="desc">UNWINDING WITH FAMILY</div>
+</div>
+</div>
+</body>
+</html>

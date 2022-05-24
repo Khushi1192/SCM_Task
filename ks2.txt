@@ -1,0 +1,125 @@
+<html>
+<head>
+<link href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@1,600;1,700&family=Lobster+Two:wght@700&family=Playfair+Display:ital,wght@1,600&display=swap" rel="stylesheet">
+<style>
+.img {
+  background:url(https://images.unsplash.com/photo-1511895426328-dc8714191300?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+ /* linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5))*/
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+ul{
+font-family: 'Alegreya', serif;
+text-align:left;
+font-size:18px}
+.txt {
+  text-align: center;
+  color:white;
+  font-family: 'Playfair Display', serif;
+}
+
+.b{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: -1px -1px 15px 3px rgba(0, 0, 0, 0.75);
+}
+.banner-content-container{
+    text-align: right;
+}
+.banner-content{
+    padding: 0 50px;
+}
+.banner-img{
+    height: 100%;
+}
+.he{
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+    text-align: left;
+}
+.p{
+    font-family: 'Alegreya', serif;
+    font-size: 20px;
+    margin-bottom: 30px;
+    text-align: left;
+}
+.img2{ 
+height:350px;
+width:350px
+}
+.img3{ 
+height:390px;
+width:350px
+}
+</style>
+</head>
+<body>
+
+<div class="img">
+  <div class="txt">
+    <h1 style="font-size:50px; text-shadow: 2px 2px 4px #000000;padding:40px">UNWIND WITH FAMILY </h1>
+
+  </div>
+</div>
+
+          <div class="b">
+            <div class="banner-img-container">
+                <img src="https://images.unsplash.com/photo-1523301343968-6a6ebf63c672?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aGFuZ291dCUyMHdpdGglMjBmYW1pbHl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"  class="img2">
+            </div>
+            <div class="banner-content-container">
+                <div class="banner-content">
+                    <h3 class="he">WHY HANGOUT WITH FAMILY?</h3>
+                    <p class="p">
+                      For the people who love and care about you, seeing you struggle with every day hustles can be very difficult. Friends and family usually want to help you to deal with your hectic schedules which can deteriorate your mental health in a long run.
+                       Spending time with family is such an important part of living a complete and fulfilling life. Remember the family does not always have to be blood relatives. Close friends, a guardian, or step-siblings all fall into the category of “family.” Cooking and eating more meals at home, as well as participating in physical activities (such as sports) with your family, can provide an unexpected advantage and improve your mental health.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="b">
+            <div class="banner-img-container">
+                <img src="https://media.istockphoto.com/photos/happy-young-family-picture-id1316638351?b=1&k=20&m=1316638351&s=170667a&w=0&h=eICVP7qZCS2CQ7uhynA22BqVtPJ3dMKiONjrFVJYC2g=" class="img2">
+</div>           
+ <div class="banner-content-container">
+                <div class="banner-content">
+                    <h3 class="he">FAMILY CAN HELP DE-STRESS</h3>
+                    <p class="p">
+                      If you communicate with your dear ones in person rather than via an online platform or mobile, it significantly lowers the risk of depression or other mental illness. Being physically present with loved ones provides a good emotional support system to help you get through life’s difficulties. A close family relationship improves your ability to deal with life’s changes and challenges. Knowing that you are loved, cared for, and needed gives you a sense of belonging and purpose. This assurance motivates you to keep moving forward towards success. It is believed that strong relationships extend your life expectancy up by 40-50%. When you consider all of the physical and mental health advantages mentioned above, it’s easy to see why spending time with family has been related to living a longer, healthier, and happier life. And those who have bad physical habits but have a good social network live longer than those who do not.
+                    </p>
+                  </div>
+            </div>
+            </div>
+
+          <div class="b">
+            <div class="banner-img-container">
+                <img src="https://media.istockphoto.com/photos/smiling-beautiful-family-of-four-play-fetch-flying-disc-with-happy-picture-id1285465265?b=1&k=20&m=1285465265&s=170667a&w=0&h=SK6BtZC48kGvO51YOp129bo-z7vzNn6tkSMBmnETt34=" class="img3">
+            </div>
+            <div class="banner-content-container">
+                <div class="banner-content">
+                    <h3 class="he">ACTIVITIES TO INDULGE IN </h3>
+                    <p class="p">
+                       Here's our suggestion for things you can do together with your family!
+                     <ul> 
+<li>Wii Sports night, a game of cards, or a board game, a night of fun with the family is a great way to recharge your batteries! </li>
+
+<li>Movie Time: There are few things better than a family favourite holiday movie! What's better than enjoying your favourite movies on <b style="color:maroon">4BINGE</b> From It’s a Wonderful Life, to Die Hard, there are a plethora of  films to help you and your family relax and destress! </li>
+
+<li>Unplug night: Watching movies and playing video games together as a family are fantastic ways to bond and share memories. BUT, we feel that there is a lot of value in a night of unplugging, putting away technology, and spending time without digital distractions.</li>
+
+<li>A Night Away: Sometimes the best way to relax and unwind is to get away from it.This will  provide you with private time with your family away from stress</li>
+ </ul>                 
+   </p>
+                </div>
+            </div>
+        </div>
+             </body>
+</html>
