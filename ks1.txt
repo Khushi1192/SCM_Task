@@ -11,7 +11,7 @@
 .div1{background:url(https://media.istockphoto.com/photos/gradient-from-beige-to-graybrown-gold-tint-mixing-muted-shades-calm-picture-id1262985861?b=1&k=20&m=1262985861&s=170667a&w=0&h=citEBXxkwSoIy3Aep8EcLQ5FMPEC_NF95ZJ2xzWvw7Q=)}
 dl dd {
   background: #fff8e7;
-  padding: 5px;
+  padding: 7px;
 
 }
 ul li {
